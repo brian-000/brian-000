@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on my first group project.
-- 🌱 I’m currently learning Node.js and digital logic.
+- 🌱 I’m currently learning Node.js and Digital Logic.
 - 👯 I’m looking to collaborate on more group projects
 - 🤔 I’m looking for help with writing cleaner code
 - 💬 Ask me about data structures and algorithms
