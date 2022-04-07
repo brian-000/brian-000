@@ -1,5 +1,5 @@
 ### Hello World! 👋
-.party() was excellent!
+'.party() was excellent!'
 
 
 <!--
